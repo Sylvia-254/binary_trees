@@ -54,4 +54,3 @@ int main(void)
     avl = binary_tree_is_avl(root);
     printf("Is %d avl: %d\n", root->n, avl);
     return (0);
-}
